@@ -8,7 +8,7 @@
 - ⚡ Doing projects in Java;
 - 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jedcoo@gmail.com)](mailto:adrianoluissousa@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianoluissousa/)](https://www.linkedin.com/in/adrianoluissousa/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351933237810)
 - ⚡ Fun fact about me: I love to see portuguese and italian author movies;
-- 😄 You can download my CV [here](https://github.com///blob/main/ "here").
+- 😄 You can download my CV [here]([https://github.com///blob/main/](https://github.com/NeonDada/NeonDada/blob/main/CV%20Adriano%20Lu%C3%ADs%20Sousa.pdf) "here").
 
 
 ## Technologies I know and I'm learning
